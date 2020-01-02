@@ -4,7 +4,6 @@ My fav apps for my 2012 MacBook Pro.
 
 ## General
 
-- Plain old paper - todo lists week and day
 - Mail - email client
 - [Bitwarden](https://bitwarden.com/) - password manager
 
