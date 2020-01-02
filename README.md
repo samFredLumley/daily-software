@@ -1,8 +1,6 @@
 # Productivity stack
 
-A little list of the software I use on a daily basis for research and web development.
-
-I use an upgraded 2012 MacBook Pro and it still works a charm most of the time.
+My fav apps for my 2012 MacBook Pro.
 
 ## General
 
