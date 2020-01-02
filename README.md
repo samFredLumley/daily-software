@@ -1,5 +1,3 @@
-# Productivity stack
-
 My fav apps for my 2012 MacBook Pro.
 
 ## General
