@@ -1,4 +1,4 @@
-My fav apps for my 2012 MacBook Pro.
+Fav apps for my Mac.
 
 ## General
 
