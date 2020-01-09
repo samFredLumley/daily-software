@@ -25,6 +25,8 @@ Fav apps for my Mac.
 - [Stylus](https://add0n.com/stylus.html) - implement custom css/ dark mode
 - Zotero, Notion, Bitwarden - app integrations
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/) - web clipping
+- [Distraction Free YouTube](https://addons.mozilla.org/en-GB/firefox/addon/df-youtube/)
+- [Facebook Purity](https://www.fbpurity.com/) 
 
 ## Writing
 
