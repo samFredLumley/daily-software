@@ -11,8 +11,8 @@ Fav apps for my Mac.
 - [iStat](https://bjango.com/mac/istatmenus/) - keep tabs on cpu, weather, fan speed, memory, lots of other things (12 usd)
 - [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html) - pomodoro timer
 - [Amphetamine](https://roaringapps.com/app/amphetamine) - control sleeping behaviour
-- [Vanilla](https://matthewpalmer.net/vanilla/) - hide menu items (5 usd, bit cheaper than bartender)
-- [Magnet](https://magnet.crowdcafe.com/) - drag to snap windows to tiles
+- [Dozer](https://dozermac.com/) - hide menu items
+- [Magnet](https://magnet.crowdcafe.com/) - drag to snap windows
 
 ## Design
 
@@ -22,15 +22,15 @@ Fav apps for my Mac.
 ## Browser
 
 - Mostly Firefox
-- [Stylus](https://add0n.com/stylus.html) - implement custom css/ dark mode
+- [Stylus](https://add0n.com/stylus.html) - implement custom css/ dark mode on any website, find styles at [userstyles.org](https://userstyles.org)
 - Zotero, Notion, Bitwarden - app integrations
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/) - web clipping
-- [Distraction Free YouTube](https://addons.mozilla.org/en-GB/firefox/addon/df-youtube/)
-- [Facebook Purity](https://www.fbpurity.com/) 
+- [Distraction Free YouTube](https://addons.mozilla.org/en-GB/firefox/addon/df-youtube/) - remove suggested videos from youtube
+- [Facebook Purity](https://www.fbpurity.com/) - remove ads and any unwanted parts of facebook
 
 ## Writing
 
-- [Notion](https://www.notion.so/) - central hub, notes, project management, writing markdown
+- [Notion](https://www.notion.so/) - notes, project management, writing markdown
 - [Google Docs](https://docs.google.com/document/u/0/) - collaborative writing
 - Word - last resort
 - [Zotero](https://www.zotero.org/) - reference manager
@@ -43,7 +43,7 @@ Fav apps for my Mac.
 
 ## Misc
 
-- [aText](https://www.trankynam.com/atext/) - replace text abbreviations with snippets (5 usd)
+- [aText](https://www.trankynam.com/atext/) - replace text abbreviations with snippets (5 usd but really great)
 - [Helium](https://heliumfloats.com/) - have browser windows float above others
 - [Piezo](https://rogueamoeba.com/piezo/) - record any other application (19 usd)
 - [Radio Silence](https://radiosilenceapp.com/) - block applications' internet connection
