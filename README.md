@@ -3,27 +3,26 @@ Fav apps for my Mac.
 ## General
 
 - Mail - email client
-- [Bitwarden](https://bitwarden.com/) - password manager
 
 ## Menu bar
 
-- [Itsycal](https://www.mowglii.com/itsycal/) - sweet sweet synced calendar
-- [iStat](https://bjango.com/mac/istatmenus/) - keep tabs on cpu, weather, fan speed, memory, lots of other things (12 usd)
+- [Itsycal](https://www.mowglii.com/itsycal/) - beautiful synced calendar
+- [iStat](https://bjango.com/mac/istatmenus/) - menu bar app for weather, cpu, memory, lots of other things (12 usd)
 - [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html) - pomodoro timer
-- [Amphetamine](https://roaringapps.com/app/amphetamine) - control sleeping behaviour
+- [Amphetamine](https://roaringapps.com/app/amphetamine) - control mac's sleeping behaviour
 - [Dozer](https://dozermac.com/) - hide menu items
 - [Magnet](https://magnet.crowdcafe.com/) - drag to snap windows
 
 ## Design
 
 - [Figma](https://bitwarden.com/) - vector design
-- [Giphy Capture](https://giphy.com/apps/giphycapture) - gifs
 
 ## Browser
 
 - Mostly Firefox
+- [Bitwarden](https://bitwarden.com/) - password manager
 - [Stylus](https://add0n.com/stylus.html) - implement custom css/ dark mode on any website, find styles at [userstyles.org](https://userstyles.org)
-- Zotero, Notion, Bitwarden - app integrations
+- Zotero, Notion - app integrations
 - [Pocket](https://www.mozilla.org/en-US/firefox/pocket/) - web clipping
 - [Distraction Free YouTube](https://addons.mozilla.org/en-GB/firefox/addon/df-youtube/) - remove suggested videos from youtube
 - [Facebook Purity](https://www.fbpurity.com/) - remove ads and any unwanted parts of facebook
